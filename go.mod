@@ -16,6 +16,6 @@ require (
 	github.com/stretchr/testify v1.3.0
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/temoto/robotstxt v1.1.1
-	golang.org/x/net v0.0.0-20190522155817-f3200d17e092
-	golang.org/x/text v0.3.2
+	golang.org/x/net v0.7.0
+	golang.org/x/text v0.7.0
 )
